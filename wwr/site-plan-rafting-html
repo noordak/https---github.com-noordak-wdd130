@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Rafting Site Plan | Kevin Noorda</title>
+        <meta name="description" content="The rafting site plan includes the site purpose, target audience, branding info, and style guide for course website project">
+        <meta name="author" content="Kevin Noorda"
+        <link rel="stylesheet" href="styles/#site-plan-rafting.css">
+    </head>
+</html>
+<body>
+    <header>
+        <h1>Rafting Site Plan</h1>
+        <div>Kevin Noorda</div>
+    </header>
+</body>            
+
+<main>
+    <h2>Overview</h2>
+
+    <h3>Purpose</h3>
+    <p>Our purpose is to provide the best equipment, education, training, resources, and experiences to those looking to get out on the rapids!</p>
+    <h3>Audience</h3>
+    <p>Are you a beginner or expert rafter? Do you have all the tools and resources necessary to get out on the rapids? Are you looking to connect with like-minded individuals? Come check out our site if any of these questions apply to you!</p>
+
+    <h2>Branding</h2>
+
+    <h3>Website Logo</h3>
+    <img src="images/logo.png" alt="Rafting Site Logo">
+
+    <h2>Style Guide</h2>
+
+    <h3>Color Palette</h3>
+    <p></p>
+    <h3>Typography</h3>
+    <h4>Headings Example Font</h4>
+    <h4>Normal text/Paragragh Example Font</h4>
+    <p>Example Text - Lorem ipsom.</p>
+    <h4>Colored Callout Example Font</h4>
+    <p>Example text - Loren ipsum</p>
+    <h3>Navigation</h3>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Trips</a>
+        <a href="#">Contact Us</a>
+    </nav>
+    <h2>Wireframes</h2>
+    <h3>Home Page Wireframe</h3>
+    <img src="https://byui-cse.github.io/wdd130-ww-course/images/wwr/wwr-wireframe-home.png alt="Home Page Wireframe Example Design" width="700">
+    <h3>About Us Page Wireframe</h3>
+    <img src="https://byui-cse.github.io/wdd130-ww-course/images/wwr/wwr-wireframe-aboutus-update.png" alt="About Us Page Wireframe Design" width="700">
+    alt="About Us Page Wireframe Design" width="700"
+</main>
+<footer>
+    <p>&copy;2024 &#127796; Rafting Site Document &#127796; Kevin Noorda &#127796; WDD130</p>
+</footer>

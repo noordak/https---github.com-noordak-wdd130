@@ -1,0 +1,46 @@
+@import url(https://fonts.google.com/specimen/Sedan+SC);
+@import url(https://fonts.google.com/specimen/Open+Sans);
+body {
+    font-family: var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
+}
+:root {
+    --primary color: #5abcb9;
+    --secondary color: #08a045;
+    --accent1 color: #dea54b;
+    --accent2 color: ##d0efb1;
+
+    --heading font: 'Sedan SC', serif;
+    --paragraph font: 'Open Sans', serif;
+
+    --nav-background-color: #87c38f;
+    --nav-link-color: #f4f0bb;
+    --nav-hover-link-color: #989fce;
+    --nav-hover-background-color: ##272838;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+header {
+    padding: 25px;
+}
+nav {
+    background-color: var(--nav-background-color);
+    font-size: 1.2rem;
+    display: flex;
+}
+nav a {
+    display: block;
+    color: var(--nav-link-color);
+    text-decoration: none;
+    padding: 1rem;
+}
+nav a:link, nav a:visited {
+    color: var(--nav-link-color);
+}
+nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover-background-color);
+}
